@@ -1,3 +1,5 @@
+https://www.stellarplayer.com/
+https://github.com/stellarplayer/stellar-web-ctrl
 https://github.com/ninebird1/stellar-66ys
 https://github.com/Garefield/stellar-WebDAVClient
 https://github.com/simplecelery/stellar-alipan
@@ -10,3 +12,7 @@ https://github.com/simplecelery/stellar-rrys
 https://github.com/z4none/stellar-search-nyaa
 https://github.com/cxrcool/stellar-18zy
 https://github.com/dengdaiderizi521/stellar_wdapi
+https://github.com/jinliangsz/stellar-WebDAVClient
+https://github.com/Aa5553622/stellar-yszf
+https://github.com/smjqb168/stellar-80s
+https://github.com/wgnms/webdecode

@@ -6,5 +6,7 @@ https://github.com/simplecelery/stellar-rmys
 https://github.com/stellarplayer/stellar-watch-tv
 https://github.com/ninebird1/stellar-webdav
 https://github.com/simplecelery/stellar-yszy
-
-
+https://github.com/simplecelery/stellar-rrys
+https://github.com/z4none/stellar-search-nyaa
+https://github.com/cxrcool/stellar-18zy
+https://github.com/dengdaiderizi521/stellar_wdapi
